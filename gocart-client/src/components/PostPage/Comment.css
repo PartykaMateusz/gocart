@@ -1,0 +1,12 @@
+h6,
+h5 {
+  text-align: left;
+  padding-left: 10px;
+}
+
+#asdd {
+  width: 60%;
+  margin: auto;
+  border-style: double;
+  border-color: lightgray;
+}

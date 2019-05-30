@@ -1,0 +1,25 @@
+.isteColor {
+  color: #cd2147;
+}
+.isteColor:hover {
+  color: #353a40;
+}
+.img-deneyim {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  border-style: solid;
+}
+.img-arkadas {
+  object-fit: cover;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  border-style: solid;
+}
+
+#dd {
+  margin-left: 35px;
+  max-width: 85%;
+}

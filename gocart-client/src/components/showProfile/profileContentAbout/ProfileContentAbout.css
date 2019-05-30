@@ -1,0 +1,34 @@
+/* User Cards */
+
+.card-body {
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+.profile-card-4 .list-icon {
+  display: table-cell;
+  font-size: 30px;
+  padding-right: 20px;
+  vertical-align: middle;
+  color: #223035;
+}
+
+.profile-card-4 .list-details {
+  display: table-cell;
+  vertical-align: middle;
+  font-weight: 600;
+  color: #223035;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: left;
+}
+
+.profile-card-4 .list-details small {
+  display: table-cell;
+  vertical-align: middle;
+  font-size: 12px;
+  font-weight: 400;
+  color: #808080;
+}

@@ -1,0 +1,44 @@
+body {
+  background: #ebeef0;
+}
+
+#post {
+  text-align: left;
+}
+
+textarea {
+  resize: none;
+}
+
+.panel {
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.075);
+  border-radius: 0;
+  border: 0;
+  margin-bottom: 15px;
+}
+
+.panel-body {
+  padding: 25px 20px;
+}
+
+.btn-trans {
+  background-color: transparent;
+  border-color: transparent;
+  color: #929292;
+}
+
+.btn-icon {
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+.btn-sm,
+.btn-group-sm > .btn,
+.btn-icon.btn-sm {
+  padding: 5px 10px !important;
+}
+
+.mar-top {
+  margin-top: 15px;
+  text-align: left;
+}
