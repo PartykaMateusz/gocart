@@ -25,6 +25,7 @@ yarn-error.log*
 
 HELP.md
 /target/
+/gocart-server/target/
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
